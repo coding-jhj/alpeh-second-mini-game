@@ -2,13 +2,9 @@
 
 24초짜리 미니 리듬 게임입니다.
 
+![타이틀 화면](screenshots/hero.jpg)
+
 **데모**: https://alpeh-second-mini-game.vercel.app/
-
-## 스크린샷
-
-| 타이틀 화면 | 진행 중 | 결과 화면 |
-|---|---|---|
-| ![타이틀 화면](screenshots/hero.jpg) | ![진행 중](screenshots/play.jpg) | ![결과 화면](screenshots/result.jpg) |
 
 ## 조작법
 
@@ -20,6 +16,8 @@
 
 화면 하단의 패드를 클릭해도 동일하게 동작합니다.
 
+![진행 중 화면](screenshots/play.jpg)
+
 ## 규칙
 
 - 트랙 길이 24초, 고정 시드로 생성된 49개 노트 — 매 판 동일한 패턴
@@ -28,6 +26,8 @@
 - 실패 조건: 미스 8회 누적
 - 통과 조건: 24초 완주 + 정확도 70% 이상
 - 통과 시 랭크: S(95%↑) / A(88%↑) / B(79%↑) / C(그 외)
+
+![결과 화면](screenshots/result.jpg)
 
 ## 기능
 
