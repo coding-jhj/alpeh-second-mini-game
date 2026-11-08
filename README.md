@@ -4,6 +4,12 @@
 
 **데모**: https://alpeh-second-mini-game.vercel.app/
 
+## 스크린샷
+
+| 타이틀 화면 | 진행 중 | 결과 화면 |
+|---|---|---|
+| ![타이틀 화면](screenshots/hero.jpg) | ![진행 중](screenshots/play.jpg) | ![결과 화면](screenshots/result.jpg) |
+
 ## 조작법
 
 - `D` `F` `J` `K` : 1~4번 레인 타격
